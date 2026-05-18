@@ -1,0 +1,17 @@
+Features:
+
+Multilingual support (English, Telugu, Hindi, Kannada)
+AI-powered response handling
+Helpdesk escalation workflow
+Guided user assistance
+REST API integration
+Deployment-ready architecture
+
+
+Tech Stack
+Node.js
+Express.js
+OpenAI API
+Firebase / JSON storage
+HTML/CSS/JavaScript
+Replit / Render deployment
