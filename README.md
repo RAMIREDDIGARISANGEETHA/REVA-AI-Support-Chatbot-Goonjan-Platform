@@ -2,3 +2,20 @@
 Developed an AI-powered multilingual support chatbot called REVA for the Goonjan platform using Replit for rapid development, testing, and deployment. The chatbot was designed to assist users with common platform-related queries such as batch joining, scheduling, beneficiary workflows, and general support guidance.
 
 The main goal of the project was to reduce repetitive helpdesk workload and provide faster user assistance through an automated conversational interface. The chatbot supports multiple languages including English, Telugu, Hindi, and Kannada to improve accessibility for diverse users.
+
+
+#Key features implemented:
+
+Multilingual chatbot interface
+AI-based conversational assistance
+Guided workflow support
+Level-2 helpdesk escalation through email notifications
+Deployment-ready backend architecture
+User-friendly responsive chat UI
+
+#Why Replit was used:
+
+Quick cloud-based development environment
+Easy backend and frontend hosting in one workspace
+Faster testing and debugging without local setup complexity
+Simple collaboration and deployment workflow
