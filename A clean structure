@@ -1,0 +1,12 @@
+
+
+reva-ai-chatbot/
+│
+├── frontend/
+├── backend/
+├── screenshots/
+├── docs/
+├── README.md
+├── .env.example
+├── package.json
+└── LICENSE
