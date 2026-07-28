@@ -1,4 +1,4 @@
-Features:
+##Features##
 
 Multilingual support (English, Telugu, Hindi, Kannada)
 AI-powered response handling
@@ -8,7 +8,7 @@ REST API integration
 Deployment-ready architecture
 
 
-Tech Stack
+##Tech Stack##
 Node.js
 Express.js
 OpenAI API
